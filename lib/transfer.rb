@@ -34,6 +34,3 @@ class Transfer
       @sender.balance += @amount
     end
   end
-
-
-end
