@@ -9,7 +9,7 @@ def initialize(name)
 end
 
 def deposit(deposit)
-  @deposit = deposit
+  @balance += deposit
   end
 
 end
