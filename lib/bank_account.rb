@@ -9,6 +9,7 @@ def initialize(name)
 end
 
 def deposit
+  @deposit = deposit
   end
 
 end
